@@ -14,6 +14,7 @@ const Theme = {
   LIGHT: 'light-theme',
   DARK: 'dark-theme',
 };
+
 function inputChangeFunc(e) {
   const check = e.target.checked;
   if (check) {
